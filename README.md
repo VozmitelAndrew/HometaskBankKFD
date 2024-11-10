@@ -11,17 +11,6 @@
 
 ---
 
-### Установка
-```
-dependencies {
-    api("org.jetbrains.kotlin:kotlin-reflect")
-    testImplementation(kotlin("test"))
-    testImplementation("org.junit.jupiter:junit-jupiter:5.8.1")
-}
-```
-
----
-
 # Что в коде плохо (за что можно ругать и где будут нелохи советы):
 
 - Опять же, не идеальное по хронологии логирование в файлах.
